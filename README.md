@@ -1,5 +1,5 @@
 # Boxes-UnityGame
-Boxes is a 3D login game made in Unity. The game offers 10 levels with increasing level of difficulty. By changing camera (Key C) you can choose between third person view, isometric view and look from above. Game also provide a oportunity to play a specific level and changing options such music and sound effects volume.
+Boxes is a 3D logic game made in Unity. The game offers 10 levels with increasing level of difficulty. By changing camera (Key C) you can choose between third person view, isometric view and look from above. Game also provide a oportunity to play a specific level and changing options such music and sound effects volume.
 ![Menu](Screenshots/menu.png)
 
 ## Getting started
